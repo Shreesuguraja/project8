@@ -1,11 +1,1 @@
- int a=10;
- int b=70;
- if(a>b)
- {
-  System.out.println("a is greater");
- }
- else
- {
-  System.out.println("b is grater");
- }
-
+System.out.println(welcome to app v1.1 added enchanced featuers); 
